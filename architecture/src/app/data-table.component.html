@@ -1,0 +1,51 @@
+
+<table mat-table [dataSource]="datas.result" class="mat-elevation-z8">
+
+  <!--- Note that these columns can be defined in any order.
+        The actual rendered columns are set as a property on the row definition" -->
+
+  <!-- Name Column -->
+  <ng-container matColumnDef="name">
+    <th mat-header-cell *matHeaderCellDef> Name </th>
+    <td mat-cell *matCellDef="let element"> <p>{{element.name}}</p> </td>
+  </ng-container>
+
+  <!-- Weight Column -->
+  <ng-container matColumnDef="lastName">
+    <th mat-header-cell *matHeaderCellDef> Last Name </th>
+    <td mat-cell *matCellDef="let element"> <p>{{element.lastName}}</p> </td>
+  </ng-container>
+
+  <!-- Symbol Column -->
+  <ng-container matColumnDef="postCode">
+    <th mat-header-cell *matHeaderCellDef> Post Code </th>
+    <td mat-cell *matCellDef="let element"> 
+      <p *ngIf="element.invalidFormat" style="background-color:#F48484">{{element.postCode}}</p> 
+      <p *ngIf="!element.invalidFormat">{{element.postCode}}</p>
+    </td>
+  </ng-container>
+
+  <ng-container matColumnDef="city">
+    <th mat-header-cell *matHeaderCellDef> City </th>
+    <td mat-cell *matCellDef="let element"> <p>{{element.city}}</p> </td>
+  </ng-container>
+
+  <ng-container matColumnDef="phoneNumber">
+    <th mat-header-cell *matHeaderCellDef> Phone Number </th>
+    <td mat-cell *matCellDef="let element"> {{element.phoneNumber}} </td>
+  </ng-container>
+
+  <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+  <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+
+</table>
+
+
+<button mat-raised-button (click)="getDatas()">
+  Get data
+ </button>
+
+ <button  mat-raised-button (click)="saveDatas(datas)">
+  Save data
+ </button> 
+<p *ngIf="!datas.success" style="color:#F48484">{{datas.message}}</p>
