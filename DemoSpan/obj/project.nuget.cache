@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SnRKZ6Prov0kzN4sv2Hgj5fF/RP6BjHMFxEeOxAJOQU5nKi0S+1J/1bbPe5HwgWZueci9p5Sk1c+qw+WG84SPg==",
+  "dgSpecHash": "Sv7bfXYDeMYesiAX/8KOCUnHVibJpD/jNmpcT7vREDwZQeh7fBWGRGt3PyOaCYlsvWZbj9e5Tt0Z0LdGxGUT0Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MartinaBarisic\\source\\repos\\DemoSpan\\DemoSpan.csproj",
+  "projectFilePath": "C:\\Users\\MartinaBarisic\\source\\repos\\SpanTask\\DemoSpan\\DemoSpan.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MartinaBarisic\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.0\\microsoft.entityframeworkcore.7.0.0.nupkg.sha512",
     "C:\\Users\\MartinaBarisic\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.0\\microsoft.entityframeworkcore.abstractions.7.0.0.nupkg.sha512",

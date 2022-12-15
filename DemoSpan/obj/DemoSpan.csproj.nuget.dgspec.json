@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MartinaBarisic\\source\\repos\\DemoSpan\\DemoSpan.csproj": {}
+    "C:\\Users\\MartinaBarisic\\source\\repos\\SpanTask\\DemoSpan\\DemoSpan.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MartinaBarisic\\source\\repos\\DemoSpan.Common\\DemoSpan.Common.csproj": {
+    "C:\\Users\\MartinaBarisic\\source\\repos\\SpanTask\\DemoSpan.Common\\DemoSpan.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MartinaBarisic\\source\\repos\\DemoSpan.Common\\DemoSpan.Common.csproj",
+        "projectUniqueName": "C:\\Users\\MartinaBarisic\\source\\repos\\SpanTask\\DemoSpan.Common\\DemoSpan.Common.csproj",
         "projectName": "DemoSpan.Common",
-        "projectPath": "C:\\Users\\MartinaBarisic\\source\\repos\\DemoSpan.Common\\DemoSpan.Common.csproj",
+        "projectPath": "C:\\Users\\MartinaBarisic\\source\\repos\\SpanTask\\DemoSpan.Common\\DemoSpan.Common.csproj",
         "packagesPath": "C:\\Users\\MartinaBarisic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MartinaBarisic\\source\\repos\\DemoSpan.Common\\obj\\",
+        "outputPath": "C:\\Users\\MartinaBarisic\\source\\repos\\SpanTask\\DemoSpan.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -73,14 +73,14 @@
         }
       }
     },
-    "C:\\Users\\MartinaBarisic\\source\\repos\\DemoSpan.Repository.Sql\\DemoSpan.Repository.Sql.csproj": {
+    "C:\\Users\\MartinaBarisic\\source\\repos\\SpanTask\\DemoSpan.Repository.Sql\\DemoSpan.Repository.Sql.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MartinaBarisic\\source\\repos\\DemoSpan.Repository.Sql\\DemoSpan.Repository.Sql.csproj",
+        "projectUniqueName": "C:\\Users\\MartinaBarisic\\source\\repos\\SpanTask\\DemoSpan.Repository.Sql\\DemoSpan.Repository.Sql.csproj",
         "projectName": "DemoSpan.Repository.Sql",
-        "projectPath": "C:\\Users\\MartinaBarisic\\source\\repos\\DemoSpan.Repository.Sql\\DemoSpan.Repository.Sql.csproj",
+        "projectPath": "C:\\Users\\MartinaBarisic\\source\\repos\\SpanTask\\DemoSpan.Repository.Sql\\DemoSpan.Repository.Sql.csproj",
         "packagesPath": "C:\\Users\\MartinaBarisic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MartinaBarisic\\source\\repos\\DemoSpan.Repository.Sql\\obj\\",
+        "outputPath": "C:\\Users\\MartinaBarisic\\source\\repos\\SpanTask\\DemoSpan.Repository.Sql\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -168,14 +168,14 @@
         }
       }
     },
-    "C:\\Users\\MartinaBarisic\\source\\repos\\DemoSpan.Respository.Business\\DemoSpan.Repository.Business.csproj": {
+    "C:\\Users\\MartinaBarisic\\source\\repos\\SpanTask\\DemoSpan.Respository.Business\\DemoSpan.Repository.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MartinaBarisic\\source\\repos\\DemoSpan.Respository.Business\\DemoSpan.Repository.Business.csproj",
+        "projectUniqueName": "C:\\Users\\MartinaBarisic\\source\\repos\\SpanTask\\DemoSpan.Respository.Business\\DemoSpan.Repository.Business.csproj",
         "projectName": "DemoSpan.Repository.Business",
-        "projectPath": "C:\\Users\\MartinaBarisic\\source\\repos\\DemoSpan.Respository.Business\\DemoSpan.Repository.Business.csproj",
+        "projectPath": "C:\\Users\\MartinaBarisic\\source\\repos\\SpanTask\\DemoSpan.Respository.Business\\DemoSpan.Repository.Business.csproj",
         "packagesPath": "C:\\Users\\MartinaBarisic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MartinaBarisic\\source\\repos\\DemoSpan.Respository.Business\\obj\\",
+        "outputPath": "C:\\Users\\MartinaBarisic\\source\\repos\\SpanTask\\DemoSpan.Respository.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -196,11 +196,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\MartinaBarisic\\source\\repos\\DemoSpan.Common\\DemoSpan.Common.csproj": {
-                "projectPath": "C:\\Users\\MartinaBarisic\\source\\repos\\DemoSpan.Common\\DemoSpan.Common.csproj"
+              "C:\\Users\\MartinaBarisic\\source\\repos\\SpanTask\\DemoSpan.Common\\DemoSpan.Common.csproj": {
+                "projectPath": "C:\\Users\\MartinaBarisic\\source\\repos\\SpanTask\\DemoSpan.Common\\DemoSpan.Common.csproj"
               },
-              "C:\\Users\\MartinaBarisic\\source\\repos\\DemoSpan.Repository.Sql\\DemoSpan.Repository.Sql.csproj": {
-                "projectPath": "C:\\Users\\MartinaBarisic\\source\\repos\\DemoSpan.Repository.Sql\\DemoSpan.Repository.Sql.csproj"
+              "C:\\Users\\MartinaBarisic\\source\\repos\\SpanTask\\DemoSpan.Repository.Sql\\DemoSpan.Repository.Sql.csproj": {
+                "projectPath": "C:\\Users\\MartinaBarisic\\source\\repos\\SpanTask\\DemoSpan.Repository.Sql\\DemoSpan.Repository.Sql.csproj"
               }
             }
           }
@@ -256,14 +256,14 @@
         }
       }
     },
-    "C:\\Users\\MartinaBarisic\\source\\repos\\DemoSpan\\DemoSpan.csproj": {
+    "C:\\Users\\MartinaBarisic\\source\\repos\\SpanTask\\DemoSpan\\DemoSpan.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MartinaBarisic\\source\\repos\\DemoSpan\\DemoSpan.csproj",
+        "projectUniqueName": "C:\\Users\\MartinaBarisic\\source\\repos\\SpanTask\\DemoSpan\\DemoSpan.csproj",
         "projectName": "DemoSpan",
-        "projectPath": "C:\\Users\\MartinaBarisic\\source\\repos\\DemoSpan\\DemoSpan.csproj",
+        "projectPath": "C:\\Users\\MartinaBarisic\\source\\repos\\SpanTask\\DemoSpan\\DemoSpan.csproj",
         "packagesPath": "C:\\Users\\MartinaBarisic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MartinaBarisic\\source\\repos\\DemoSpan\\obj\\",
+        "outputPath": "C:\\Users\\MartinaBarisic\\source\\repos\\SpanTask\\DemoSpan\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -284,11 +284,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\MartinaBarisic\\source\\repos\\DemoSpan.Common\\DemoSpan.Common.csproj": {
-                "projectPath": "C:\\Users\\MartinaBarisic\\source\\repos\\DemoSpan.Common\\DemoSpan.Common.csproj"
+              "C:\\Users\\MartinaBarisic\\source\\repos\\SpanTask\\DemoSpan.Common\\DemoSpan.Common.csproj": {
+                "projectPath": "C:\\Users\\MartinaBarisic\\source\\repos\\SpanTask\\DemoSpan.Common\\DemoSpan.Common.csproj"
               },
-              "C:\\Users\\MartinaBarisic\\source\\repos\\DemoSpan.Respository.Business\\DemoSpan.Repository.Business.csproj": {
-                "projectPath": "C:\\Users\\MartinaBarisic\\source\\repos\\DemoSpan.Respository.Business\\DemoSpan.Repository.Business.csproj"
+              "C:\\Users\\MartinaBarisic\\source\\repos\\SpanTask\\DemoSpan.Respository.Business\\DemoSpan.Repository.Business.csproj": {
+                "projectPath": "C:\\Users\\MartinaBarisic\\source\\repos\\SpanTask\\DemoSpan.Respository.Business\\DemoSpan.Repository.Business.csproj"
               }
             }
           }

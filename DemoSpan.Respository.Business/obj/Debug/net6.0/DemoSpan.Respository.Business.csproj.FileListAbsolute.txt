@@ -1,0 +1,17 @@
+C:\Users\MartinaBarisic\source\repos\DemoSpan.Respository.Business\bin\Debug\net6.0\DemoSpan.Respository.Business.deps.json
+C:\Users\MartinaBarisic\source\repos\DemoSpan.Respository.Business\bin\Debug\net6.0\DemoSpan.Respository.Business.dll
+C:\Users\MartinaBarisic\source\repos\DemoSpan.Respository.Business\bin\Debug\net6.0\DemoSpan.Respository.Business.pdb
+C:\Users\MartinaBarisic\source\repos\DemoSpan.Respository.Business\bin\Debug\net6.0\DemoSpan.Common.dll
+C:\Users\MartinaBarisic\source\repos\DemoSpan.Respository.Business\bin\Debug\net6.0\DemoSpan.Common.pdb
+C:\Users\MartinaBarisic\source\repos\DemoSpan.Respository.Business\obj\Debug\net6.0\DemoSpan.Respository.Business.csproj.AssemblyReference.cache
+C:\Users\MartinaBarisic\source\repos\DemoSpan.Respository.Business\obj\Debug\net6.0\DemoSpan.Respository.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MartinaBarisic\source\repos\DemoSpan.Respository.Business\obj\Debug\net6.0\DemoSpan.Respository.Business.AssemblyInfoInputs.cache
+C:\Users\MartinaBarisic\source\repos\DemoSpan.Respository.Business\obj\Debug\net6.0\DemoSpan.Respository.Business.AssemblyInfo.cs
+C:\Users\MartinaBarisic\source\repos\DemoSpan.Respository.Business\obj\Debug\net6.0\DemoSpan.Respository.Business.csproj.CoreCompileInputs.cache
+C:\Users\MartinaBarisic\source\repos\DemoSpan.Respository.Business\obj\Debug\net6.0\DemoSpan.Respository.Business.csproj.CopyComplete
+C:\Users\MartinaBarisic\source\repos\DemoSpan.Respository.Business\obj\Debug\net6.0\DemoSpan.Respository.Business.dll
+C:\Users\MartinaBarisic\source\repos\DemoSpan.Respository.Business\obj\Debug\net6.0\refint\DemoSpan.Respository.Business.dll
+C:\Users\MartinaBarisic\source\repos\DemoSpan.Respository.Business\obj\Debug\net6.0\DemoSpan.Respository.Business.pdb
+C:\Users\MartinaBarisic\source\repos\DemoSpan.Respository.Business\obj\Debug\net6.0\ref\DemoSpan.Respository.Business.dll
+C:\Users\MartinaBarisic\source\repos\DemoSpan.Respository.Business\bin\Debug\net6.0\DemoSpan.Repository.Sql.dll
+C:\Users\MartinaBarisic\source\repos\DemoSpan.Respository.Business\bin\Debug\net6.0\DemoSpan.Repository.Sql.pdb
